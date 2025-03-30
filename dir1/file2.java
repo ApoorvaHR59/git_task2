@@ -1,1 +1,1 @@
-This is file2 for java project
+Added a new line
